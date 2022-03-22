@@ -1,5 +1,18 @@
 # DesignPatterns - The 23 Gang Of Four Design Patterns
 
+<h2> About this Project... </h2>
+
+<p> 
+  This project has an focus on explain all design patterns gof. I use many examples on real development. Trying explain this subject of a simple and intuitive way
+</p>
+
+<h3>Tecnologies </h3>
+<ul> 
+  <li>IDE - Netbeans 8</li>
+  <li>Java </li>
+  <li> Astah UML</li>
+</ul>
+
 <h3> Creational Design Patterns (5) </h3>
 <ul>
   <li> Abstract Factory. Allows the creation of objects without specifying their concrete type. </li>
