@@ -15,5 +15,5 @@ Um bom exemplo é imaginar que nós temos
 
 
 WIKI~
-https://refactoring.guru/design-patterns/template-method
+https://refactoring.guru/design-patterns/template-method </br>
 https://www.youtube.com/watch?v=-nSOKE4f2gA
