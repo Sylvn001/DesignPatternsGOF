@@ -14,6 +14,6 @@ Um bom exemplo é imaginar que nós temos
 ![image](https://user-images.githubusercontent.com/50564121/159396382-8f95d717-c362-4608-bf3a-bf4ebfee34ad.png)
 
 
-WIKI~
+WIKI~ <br>
 https://refactoring.guru/design-patterns/template-method </br>
 https://www.youtube.com/watch?v=-nSOKE4f2gA
