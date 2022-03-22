@@ -1,4 +1,4 @@
-#Observer
+# Observer
 
 <strong>PT-BR</strong> <br/>
 O padrão de projeto observer é um padrão comportamental na qual nos permite definir um relacionamento um para muitos entre um observador(Observer, Subscriber) e um observado(Subject, Publisher), assim podemos notificar multiplos objetos que estão observando, esperando uma ação de acordo com um determinado evento do objeto observado. No exemplo a seguir criamos duas interfaces, a Subscriber e a Subject (Observer, Observable), o observador vai observar o observado. Isto é Queremos que o nosso observador espere uma ação do observado, para que então possamos saber sobre sua mudança de estado.
