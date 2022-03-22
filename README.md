@@ -1,4 +1,4 @@
-# DesignPatterns - THE 23 Gang Of Four Design Patterns
+# DesignPatterns - The 23 Gang Of Four Design Patterns
 
 <h3> Creational Design Patterns (5) </h3>
 <ul>
@@ -32,3 +32,8 @@
    <li> Template Method. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.</li>
    <li> Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.</li>
   </ul>
+  
+<h3> Follow me! </h3>
+Instagram: https://www.instagram.com/sylvn001/ <br>
+Twitch: https://www.twitch.tv/sylvn001 <br>
+GitHub: https://github.com/Sylvn001 <br>
