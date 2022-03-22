@@ -8,6 +8,7 @@ Neste exemplo, usamos um canal no youtube e seus inscritos, note que um canal po
 O observado, contem uma lista de observadores (Channel -> Subscribers) e o seu devido metodo notifSubscribers() na qual uma estrutura de repetição realiza o controle de cada subscription e os notificar que um novo video foi lançado a partir da realização de uma instrução de upload.
 
 <strong>EN</strong>
+The observer design pattern is a behavioral pattern which allows us to define a one-to-many relationship between an observer(Observer, Subscriber) and an observed(Subject, Publisher), so we can notify multiple objects that are observing, expecting an action accordingly. with a certain event of the observed object. In the following example we created two interfaces, the Subscriber and the Subject (Observer, Observable), the observer will observe the observed. This is We want our observer to expect an action from the observed, so that we can then know about its change of state.
 
 ### Caso de uso (USE CASE)
 ![image](https://user-images.githubusercontent.com/50564121/159396382-8f95d717-c362-4608-bf3a-bf4ebfee34ad.png)
