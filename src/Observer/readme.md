@@ -19,7 +19,6 @@ The observed contains a list of observers (Channel -> Subscribers) and its due m
 ### Caso de uso (USE CASE)
 ![image](https://user-images.githubusercontent.com/50564121/159396382-8f95d717-c362-4608-bf3a-bf4ebfee34ad.png)
 
-
 WIKI~
-https://refactoring.guru/design-patterns/observer
-https://www.youtube.com/watch?v=98DiwRp-KZk
+* https://refactoring.guru/design-patterns/observer
+* https://www.youtube.com/watch?v=98DiwRp-KZk

@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/Observer.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/Channel.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/Youtube.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/Subscriber.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/readme.md</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/OrcMonster.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/readme.md</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/IAMonster.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/DragonMonster.java</file>
         </group>
     </open-files>
 </project-private>
