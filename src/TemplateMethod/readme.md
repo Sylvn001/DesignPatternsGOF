@@ -1,4 +1,4 @@
-#Observer Design Pattern
+#Template Method Design Pattern
 
 <strong>PT-BR</strong>
 O Padrão de projeto Template Method permite-nos a possibilidade de que as subclasses alterem seus algoritimos(comportamentos) sem mudar a sua estrutura. Isto é, a partir de uma estrutura base, podemos alterar nossos comportamentos através de uma herança entre as classes filhas, na qual possuem formas diferentes de se fazer algo mas caracteristicas semelhantes.
