@@ -3,11 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/readme.md</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/OrcMonster.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Observer/readme.md</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/IAMonster.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/TemplateMethod/DragonMonster.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Singleton/Main.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/State.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/Phone.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/TurnOffState.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Singleton/Singleton.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/UnlockedState.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/BlockedState.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/App.java</file>
         </group>
     </open-files>
 </project-private>
