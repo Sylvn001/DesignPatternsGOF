@@ -46,6 +46,7 @@
    <li> Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.</li>
   </ul>
   
+ ![image](https://user-images.githubusercontent.com/50564121/160046090-5d0571de-4caf-4dbd-b578-f39e86c02f33.png)
   
 <h3> Follow me! </h3>
 Instagram: https://www.instagram.com/sylvn001/ <br>
