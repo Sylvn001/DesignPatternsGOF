@@ -20,4 +20,7 @@ Agora vamos para o exemplo real e o seu devido caso de uso -> Imagine que você 
 
 WIKI~ <br>
 * https://www.youtube.com/watch?v=eubM6uxnoUo
-*
+* https://refactoring.guru/design-patterns/bridge
+* https://www.youtube.com/watch?v=1HL0V7vz5mA
+* https://www.youtube.com/watch?v=9jIgSsIfh_8&t=66s
+* https://www.youtube.com/watch?v=-gsuMWLxAko
