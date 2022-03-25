@@ -3,15 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/Main.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/Strategy.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Singleton/Main.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/CarStrategy.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/Human.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Singleton/Singleton.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/State/BlockedState.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/AirplaneStrategy.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Strategy/BikeStrategy.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Bridge/main.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Bridge/Shape.java</file>
         </group>
     </open-files>
 </project-private>

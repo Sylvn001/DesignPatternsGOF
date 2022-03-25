@@ -17,3 +17,4 @@ It is important to mention that the application of the strategy is mainly for th
 WIKI~ <br>
 * https://www.youtube.com/watch?v=mUagTgSnriQ
 * https://www.youtube.com/watch?v=rC296hM-S4g
+* https://refactoring.guru/design-patterns/strategy
