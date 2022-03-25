@@ -1,4 +1,4 @@
-#Facade Design Pattern
+#Facade Design Pattern (Structural)
 
 <strong>PT-BR</strong>
 O Facade é um padrão de projeto estrutural, seu principal objetivo é o fornecimento de uma interface simples e unificada na qual possui um conjunto de classes mais complexas que interagem entre-si, fazendo-se com que reduza o acoplamento entre as classes.

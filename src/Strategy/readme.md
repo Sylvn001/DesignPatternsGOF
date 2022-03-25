@@ -1,4 +1,4 @@
-#Strategy Design Pattern
+#Strategy Design Pattern (Behavioral)
 
 <strong>PT-BR</strong>
 O Padrão de projeto Strategy permite que tenha-mos estrategias diferentes para lidar com uma determinada situação variante, isso permite a nossa regra de negocio seja separada de acordo com as suas variações. Um caso bem utilizado é em por exemplo, carrinho de compras, ou fretes, imagine então que de acordo com uma determinada rota, tenhamos que aplicar um algoritimo de Grafos diferente de acordo com essa variante, assim, encapsulamos a regra de negocio a fim de ter uma estrategia diferente. O strategy é muito semelhante do State e do Bridge, mas ainda assim é o mais utilizado dentre os três, note que o diagrama de UML é quase identico ao de State e Bridge, ela também permite trocar o algoritimo em tempo de execução, mas note que a mudança não é no "comportamento" e sim na estrategia utilizada, portanto, tenha cuidado ao confundir o uso de um strategy com um state, o foco do strategy é o encapsulamente do seu algoritimo para a sua regra de negocio.

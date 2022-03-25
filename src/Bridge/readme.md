@@ -1,4 +1,4 @@
-#Bridge Design Pattern
+#Bridge Design Pattern (Structural)
 
 <strong>PT-BR</strong>
 O Bridge é um padrão de projeto muito semelhante tanto ao Adapter tanto quanto o Strategy e State (em sua "estrutura", é semelhante, tirando a herança de dois lados), o Bridge é uma implementação muito mais complexa, usando abstração e herança entre as classes. O seu uso ocorre quando a abstração e implementação começam a crescer juntas, A INTENÇÃO do bBridge é desacoplar uma abstração de sua implementação, de modo que as duas possam variar e evoluir independentemente.
