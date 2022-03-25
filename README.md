@@ -1,5 +1,7 @@
 # DesignPatterns - The 23 Gang Of Four Design Patterns
 
+## Work in Progress
+
 <h2> About this Project... </h2>
 
 <p> 
