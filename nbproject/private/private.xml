@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Bridge/main.java</file>
-            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Bridge/Shape.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/PrintShop.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/Customer.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/Client.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/Facade.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/Print.java</file>
+            <file>file:/C:/Users/junior/Documents/NetBeansProjects/DesignPatterns/src/Facade/Payment.java</file>
         </group>
     </open-files>
 </project-private>
